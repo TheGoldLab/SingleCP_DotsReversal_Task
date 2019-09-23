@@ -188,7 +188,8 @@ classdef topsTreeNodeTaskSingleCPDotsReversal < topsTreeNodeTask
             'diameter',                   5,                ... % as in Palmer/Huk/Shadlen 2005
             'density',                    90,               ... % 16.7 in Palmer/Huk/Shadlen 2005
             'speed',                      5,                ... % as in Palmer/Huk/Shadlen 2005 (and 3 interleaved frames)
-            'recordDotsPositions',        false)), ...
+            'recordDotsPositions',        true,            ...
+            'randBase',                   1)), ...
             ...   % CP Targets drawable settings
             'cpLeftTarget',               struct( ...
             'fevalable',                  @dotsDrawableText, ...
@@ -367,6 +368,7 @@ classdef topsTreeNodeTaskSingleCPDotsReversal < topsTreeNodeTask
                     
                     cohMetaData = trialsTable.coh(tr);
                     if isnumeric(cohMetaData)
+                        self.trialData(tr).coherence = cohMetaData;
                         cohMetaData = num2str(cohMetaData);
                     end
                     if strcmp(cohMetaData, '0')
@@ -696,6 +698,8 @@ classdef topsTreeNodeTaskSingleCPDotsReversal < topsTreeNodeTask
                             'showDuration', 4.5, ...
                             'blank', false);
                     end
+                else  % simply a test Block 
+                    block_reward = 0;
                 end
             else % it was a tutorial block
                 block_reward = 0;

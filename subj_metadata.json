@@ -1,4 +1,16 @@
 {
+	"testUser": {
+		"session1": {
+			"trialFolder": "Blocks003",
+			"sessionTag": "2019_09_23_12_18",
+			"trials": {
+				"completed": 0,
+				"aborted": 0,
+				"reward": 0,
+				"numTrials": 10
+			}
+		}
+	},
 	"c577366758027956b21fcb95a8db0d1e": {
 		"session1": {
 			"trialFolder": "Blocks003",

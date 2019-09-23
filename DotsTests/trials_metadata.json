@@ -1,0 +1,8 @@
+{
+    "seed": 5,
+    "num_trials": 10,
+    "prob_cp": 0,
+    "cond_prob_cp": 0,
+    "csv_filename": "trials.csv",
+    "csv_md5": ""
+}

@@ -21,7 +21,7 @@ function topNode =  configure_task(varargin)
 %% ---- Parse arguments for configuration settings
 %
 % Name of the experiment, which determines where data are are stored
-name = 'SingleCP_DotsReversal';
+name = 'DotsReproducibilityTest';
 
 defaultBlockSequence = readDefaultBlockSequence(2);
 
