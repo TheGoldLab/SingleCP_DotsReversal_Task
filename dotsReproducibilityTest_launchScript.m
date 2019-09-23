@@ -1,1 +1,1 @@
-run_task('pilot', {'trials' 10}, 'testUser', 55)
+run_task('pilot', {'trials' 20}, 'testUser', 55)

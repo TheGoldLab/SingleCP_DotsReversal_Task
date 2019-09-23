@@ -1223,7 +1223,7 @@ classdef topsTreeNodeTaskSingleCPDotsReversal < topsTreeNodeTask
             
             % ---- Set a new seed base for the dots random-number process
             %
-            trial.randSeedBase = randi(9999);
+            trial.randSeedBase = self.drawable.stimulusEnsemble.dots.settings.randBase;%randi(9999);
             
             
             % CP targets assigned randomly

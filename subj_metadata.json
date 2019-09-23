@@ -9,6 +9,36 @@
 				"reward": 0,
 				"numTrials": 10
 			}
+		},
+		"session2": {
+			"trialFolder": "Blocks003",
+			"sessionTag": "2019_09_23_14_26",
+			"trials": {
+				"completed": 0,
+				"aborted": 0,
+				"reward": 0,
+				"numTrials": 10
+			}
+		},
+		"session3": {
+			"trialFolder": "Blocks003",
+			"sessionTag": "2019_09_23_14_41",
+			"trials": {
+				"completed": 0,
+				"aborted": 1,
+				"reward": 0,
+				"numTrials": 0
+			}
+		},
+		"session4": {
+			"trialFolder": "Blocks003",
+			"sessionTag": "2019_09_23_14_49",
+			"trials": {
+				"completed": 0,
+				"aborted": 0,
+				"reward": 0,
+				"numTrials": 20
+			}
 		}
 	},
 	"c577366758027956b21fcb95a8db0d1e": {

@@ -1,8 +1,8 @@
 {
-    "seed": 5,
-    "num_trials": 10,
-    "prob_cp": 0,
-    "cond_prob_cp": 0,
+    "seed": 1,
+    "num_trials": 20,
+    "prob_cp": 0.5,
+    "cond_prob_cp": 0.625,
     "csv_filename": "trials.csv",
     "csv_md5": ""
 }
