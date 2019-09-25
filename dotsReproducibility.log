@@ -1,0 +1,5332 @@
+sum(coinToss): 11
+    flicker: 0.941447
+    flicker: 0.080936
+    flicker: 0.592252
+    flicker: 0.364225
+    flicker: 0.708862
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    wrapping 0.692506
+    sum(coinToss): 8
+    flicker: 0.850960
+    flicker: 0.045706
+    flicker: 0.041322
+    flicker: 0.840518
+    flicker: 0.458069
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    wrapping 
+Trial 9/20, end dir=0, coh=55: dir ans 1 cp ans 1, dirRT=0.41, cpRT=0.01 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 8 dirCorrect, 1 dirError, mean dirRT=0.56, 3 cpCorrect, 6 cpError, mean dirRT=0.29, epoch1=0.20, epoch2=0.00 dualReport=1
+Trial 10/20, init dir=0, coh=55
+    sum(coinToss): 7
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    flicker: 0.166691
+    flicker: 0.545299
+    flicker: 0.865228
+    flicker: 0.102865
+    flicker: 0.367156
+    flicker: 0.493885
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.723676
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    flicker: 0.610967
+    flicker: 0.436788
+    flicker: 0.102170
+    flicker: 0.060043
+    flicker: 0.703569
+    flicker: 0.261455
+    flicker: 0.158939
+    flicker: 0.698614
+    flicker: 0.237923
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    flicker: 0.974122
+    flicker: 0.176424
+    flicker: 0.670189
+    flicker: 0.762664
+    flicker: 0.896495
+    wrapping 0.696399
+    sum(coinToss): 6
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    flicker: 0.169881
+    flicker: 0.886599
+    flicker: 0.233154
+    flicker: 0.254493
+    flicker: 0.503994
+    flicker: 0.840780
+    flicker: 0.760225
+    flicker: 0.843393
+    flicker: 0.935778
+    flicker: 0.158706
+    flicker: 0.621656
+    flicker: 0.987127
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    flicker: 0.288432
+    flicker: 0.286102
+    flicker: 0.314203
+    flicker: 0.204721
+    flicker: 0.687361
+    flicker: 0.344880
+    flicker: 0.623527
+    flicker: 0.742790
+    flicker: 0.407969
+    flicker: 0.580545
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.483496
+    flicker: 0.738606
+    flicker: 0.014593
+    flicker: 0.829537
+    flicker: 0.574026
+    flicker: 0.071365
+    flicker: 0.919968
+    flicker: 0.628301
+    flicker: 0.334681
+    flicker: 0.302630
+    flicker: 0.873734
+    flicker: 0.628556
+    flicker: 0.263789
+    flicker: 0.988699
+    flicker: 0.820085
+    flicker: 0.772778
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    flicker: 0.347698
+    flicker: 0.348576
+    flicker: 0.442746
+    flicker: 0.979099
+    flicker: 0.038203
+    flicker: 0.232055
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.381903
+    flicker: 0.666538
+    flicker: 0.817096
+    flicker: 0.967944
+    flicker: 0.099552
+    flicker: 0.172758
+    flicker: 0.965350
+    flicker: 0.634044
+    flicker: 0.583674
+    flicker: 0.567352
+    flicker: 0.435236
+    flicker: 0.748676
+    flicker: 0.141006
+    flicker: 0.893234
+    flicker: 0.155185
+    flicker: 0.251405
+    wrapping 0.065829
+    sum(coinToss): 12
+    flicker: 0.102872
+    flicker: 0.534883
+    flicker: 0.396120
+    flicker: 0.295284
+    flicker: 0.297186
+    flicker: 0.500741
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.936755
+    flicker: 0.178665
+    flicker: 0.985569
+    flicker: 0.308456
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    flicker: 0.128748
+    flicker: 0.195665
+    flicker: 0.254306
+    flicker: 0.635213
+    flicker: 0.257117
+    flicker: 0.622894
+    flicker: 0.898296
+    flicker: 0.981647
+    flicker: 0.777207
+    flicker: 0.678001
+    flicker: 0.632938
+    wrapping 0.511411
+    sum(coinToss): 9
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    flicker: 0.819965
+    flicker: 0.445128
+    flicker: 0.158450
+    flicker: 0.571441
+    flicker: 0.323750
+    flicker: 0.280655
+    wrapping 0.055082
+    sum(coinToss): 10
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    flicker: 0.895619
+    flicker: 0.221134
+    flicker: 0.757757
+    flicker: 0.478695
+    flicker: 0.887938
+    wrapping 0.998310
+    sum(coinToss): 10
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    flicker: 0.434964
+    flicker: 0.700462
+    flicker: 0.983921
+    flicker: 0.232991
+    wrapping 0.297812
+    wrapping 0.612009
+    sum(coinToss): 8
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    flicker: 0.597336
+    flicker: 0.212735
+    flicker: 0.902868
+    flicker: 0.304848
+    wrapping 
+Trial 10/20, end dir=0, coh=55: dir ans 1 cp ans 0, dirRT=0.39, cpRT=0.00 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 9 dirCorrect, 1 dirError, mean dirRT=0.55, 4 cpCorrect, 6 cpError, mean dirRT=0.26, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 11/20, init dir=0, coh=55
+    sum(coinToss): 10
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    wrapping 0.166691
+    sum(coinToss): 5
+    flicker: 0.908842
+    flicker: 0.711802
+    flicker: 0.266541
+    flicker: 0.790381
+    flicker: 0.723676
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    flicker: 0.610967
+    flicker: 0.436788
+    flicker: 0.102170
+    flicker: 0.060043
+    flicker: 0.703569
+    flicker: 0.261455
+    flicker: 0.158939
+    flicker: 0.698614
+    flicker: 0.237923
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    flicker: 0.974122
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.338635
+    flicker: 0.447801
+    flicker: 0.235462
+    flicker: 0.287604
+    flicker: 0.394433
+    flicker: 0.011614
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    flicker: 0.169881
+    flicker: 0.886599
+    flicker: 0.233154
+    flicker: 0.254493
+    flicker: 0.503994
+    flicker: 0.840780
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.488976
+    flicker: 0.739326
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    flicker: 0.288432
+    flicker: 0.286102
+    flicker: 0.314203
+    flicker: 0.204721
+    flicker: 0.687361
+    flicker: 0.344880
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.610055
+    flicker: 0.100491
+    flicker: 0.965357
+    flicker: 0.483496
+    flicker: 0.738606
+    flicker: 0.014593
+    flicker: 0.829537
+    flicker: 0.574026
+    flicker: 0.071365
+    flicker: 0.919968
+    flicker: 0.628301
+    flicker: 0.334681
+    flicker: 0.302630
+    flicker: 0.873734
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.352912
+    flicker: 0.094402
+    flicker: 0.305451
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.933938
+    flicker: 0.488283
+    flicker: 0.958027
+    flicker: 0.176600
+    flicker: 0.623775
+    flicker: 0.566044
+    flicker: 0.381903
+    flicker: 0.666538
+    flicker: 0.817096
+    flicker: 0.967944
+    wrapping 0.099552
+    sum(coinToss): 10
+    flicker: 0.196470
+    flicker: 0.044159
+    flicker: 0.945981
+    flicker: 0.419590
+    flicker: 0.371847
+    flicker: 0.016460
+    flicker: 0.669183
+    flicker: 0.080214
+    flicker: 0.350270
+    flicker: 0.093192
+    flicker: 0.428749
+    flicker: 0.102872
+    wrapping 0.534883
+    sum(coinToss): 8
+    flicker: 0.835993
+    flicker: 0.368363
+    flicker: 0.684821
+    flicker: 0.223473
+    flicker: 0.754573
+    flicker: 0.936755
+    flicker: 0.178665
+    flicker: 0.985569
+    flicker: 0.308456
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    flicker: 0.128748
+    flicker: 0.195665
+    wrapping 0.254306
+    wrapping 0.635213
+    sum(coinToss): 7
+    flicker: 0.317317
+    flicker: 0.208552
+    flicker: 0.143394
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    flicker: 0.819965
+    flicker: 0.445128
+    wrapping 0.158450
+    wrapping 0.571441
+    sum(coinToss): 12
+    flicker: 0.708862
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    flicker: 0.895619
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.041322
+    flicker: 0.840518
+    flicker: 0.458069
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.901719
+    flicker: 0.895078
+    flicker: 0.257658
+    flicker: 0.823212
+    flicker: 0.010769
+    flicker: 0.096655
+    flicker: 0.253218
+    flicker: 0.568906
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.988950
+    flicker: 0.154791
+    flicker: 0.475399
+    flicker: 0.689653
+    flicker: 0.167879
+    flicker: 0.832420
+    flicker: 0.220211
+    flicker: 0.300699
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    wrapping 
+    sum(coinToss): 13
+    flicker: 0.216986
+    flicker: 0.551741
+    flicker: 0.807482
+    flicker: 0.521238
+    wrapping 0.473481
+    wrapping 0.542433
+    sum(coinToss): 6
+    flicker: 0.150582
+    flicker: 0.418538
+    flicker: 0.104671
+    flicker: 0.555357
+    flicker: 0.993997
+    flicker: 0.257406
+    flicker: 0.933004
+    flicker: 0.628257
+    flicker: 0.763454
+    flicker: 0.685930
+    flicker: 0.342204
+    flicker: 0.661709
+    flicker: 0.372322
+    flicker: 0.335387
+    flicker: 0.585863
+    flicker: 0.821296
+    flicker: 0.986522
+    flicker: 0.868612
+    wrapping 0.937282
+    sum(coinToss): 12
+    flicker: 0.944121
+    flicker: 0.888974
+    flicker: 0.874386
+    flicker: 0.909610
+    flicker: 0.150585
+    flicker: 0.583188
+    flicker: 0.399278
+    flicker: 0.337290
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.128311
+    flicker: 0.300191
+    flicker: 0.690868
+    flicker: 0.314424
+    flicker: 0.783999
+    flicker: 0.658870
+    flicker: 0.617958
+    flicker: 0.698118
+    flicker: 0.061365
+    flicker: 0.963191
+    flicker: 0.214637
+    flicker: 0.567732
+    flicker: 0.126564
+    flicker: 0.252805
+    flicker: 0.617572
+    flicker: 0.775450
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.658889
+    flicker: 0.720938
+    flicker: 0.602627
+    flicker: 0.689178
+    flicker: 0.656657
+    flicker: 0.439359
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.529052
+    flicker: 0.999541
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    flicker: 0.932081
+    flicker: 0.206439
+    flicker: 0.349485
+    flicker: 0.011612
+    flicker: 0.728653
+    flicker: 0.752162
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    flicker: 0.680538
+    flicker: 0.121831
+    flicker: 0.543112
+    flicker: 0.855189
+    flicker: 0.067010
+    flicker: 0.396643
+    flicker: 0.419891
+    flicker: 0.587518
+    flicker: 0.075228
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.898553
+    flicker: 0.954848
+    flicker: 0.494439
+    flicker: 0.489154
+    flicker: 0.028105
+    flicker: 0.395044
+    flicker: 0.479051
+    flicker: 0.678335
+    flicker: 0.510892
+    flicker: 0.379230
+    flicker: 0.578600
+    flicker: 0.424546
+    flicker: 0.463505
+    flicker: 0.463837
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.544213
+    flicker: 0.328960
+    flicker: 0.528345
+    flicker: 0.179305
+    flicker: 0.965631
+    flicker: 0.679437
+    flicker: 0.108929
+    flicker: 0.865823
+    flicker: 0.228456
+    flicker: 0.322994
+    flicker: 0.570573
+    flicker: 0.707927
+    flicker: 0.648231
+    flicker: 0.190407
+    flicker: 0.037311
+    flicker: 0.293973
+    flicker: 0.399872
+    flicker: 0.232566
+    wrapping 0.485835
+    sum(coinToss): 8
+    flicker: 0.401281
+    flicker: 0.683533
+    flicker: 0.314059
+    flicker: 0.952470
+    flicker: 0.820007
+    flicker: 0.140595
+    flicker: 0.835425
+    flicker: 0.237735
+    flicker: 0.945451
+    flicker: 0.622610
+    flicker: 0.554751
+    flicker: 0.285324
+    flicker: 0.942781
+    flicker: 0.954819
+    wrapping 0.500027
+    sum(coinToss): 12
+    flicker: 0.431562
+    flicker: 0.443521
+    flicker: 0.973891
+    flicker: 0.827774
+    flicker: 0.273019
+    flicker: 0.529182
+    wrapping 0.406965
+    wrapping 0.819222
+    sum(coinToss): 9
+    flicker: 0.073024
+    flicker: 0.738697
+    flicker: 0.685350
+    flicker: 0.910846
+    flicker: 0.085272
+    flicker: 0.109572
+    flicker: 0.321512
+    flicker: 0.228949
+    flicker: 0.639107
+    flicker: 0.729945
+    flicker: 0.185640
+    flicker: 0.334741
+    flicker: 0.444150
+    flicker: 0.936877
+    wrapping 0.538211
+Trial 11/20, end dir=180, coh=55: dir ans 0 cp ans 0, dirRT=0.85, cpRT=0.14 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 10 dirCorrect, 1 dirError, mean dirRT=0.57, 4 cpCorrect, 7 cpError, mean dirRT=0.25, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 12/20, init dir=0, coh=55
+    sum(coinToss): 8
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    flicker: 0.166691
+    flicker: 0.545299
+    flicker: 0.865228
+    flicker: 0.102865
+    wrapping 
+    sum(coinToss): 3
+    flicker: 0.266541
+    flicker: 0.790381
+    flicker: 0.723676
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    flicker: 0.610967
+    flicker: 0.436788
+    flicker: 0.102170
+    flicker: 0.060043
+    flicker: 0.703569
+    flicker: 0.261455
+    flicker: 0.158939
+    flicker: 0.698614
+    flicker: 0.237923
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    flicker: 0.974122
+    flicker: 0.176424
+    flicker: 0.670189
+    flicker: 0.762664
+    flicker: 0.896495
+    wrapping 0.696399
+    sum(coinToss): 12
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.140329
+    flicker: 0.819693
+    flicker: 0.368586
+    flicker: 0.024217
+    flicker: 0.913203
+    flicker: 0.720496
+    flicker: 0.488976
+    flicker: 0.739326
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.699509
+    flicker: 0.648879
+    flicker: 0.270760
+    flicker: 0.560850
+    flicker: 0.257332
+    flicker: 0.383782
+    flicker: 0.965530
+    flicker: 0.610055
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.820085
+    flicker: 0.772778
+    flicker: 0.799204
+    flicker: 0.971652
+    flicker: 0.965022
+    flicker: 0.251243
+    flicker: 0.712221
+    flicker: 0.290294
+    flicker: 0.603691
+    flicker: 0.146800
+    flicker: 0.368965
+    flicker: 0.617152
+    flicker: 0.352912
+    flicker: 0.094402
+    flicker: 0.305451
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.130871
+    flicker: 0.086227
+    flicker: 0.791286
+    flicker: 0.878147
+    flicker: 0.750934
+    flicker: 0.649399
+    flicker: 0.933938
+    flicker: 0.488283
+    flicker: 0.958027
+    flicker: 0.176600
+    flicker: 0.623775
+    flicker: 0.566044
+    wrapping 0.381903
+    sum(coinToss): 7
+    flicker: 0.065829
+    flicker: 0.617077
+    flicker: 0.741467
+    flicker: 0.321993
+    flicker: 0.430345
+    flicker: 0.196470
+    flicker: 0.044159
+    flicker: 0.945981
+    flicker: 0.419590
+    flicker: 0.371847
+    flicker: 0.016460
+    flicker: 0.669183
+    flicker: 0.080214
+    flicker: 0.350270
+    flicker: 0.093192
+    flicker: 0.428749
+    wrapping 0.102872
+    sum(coinToss): 12
+    flicker: 0.835993
+    flicker: 0.368363
+    flicker: 0.684821
+    flicker: 0.223473
+    flicker: 0.754573
+    flicker: 0.936755
+    flicker: 0.178665
+    flicker: 0.985569
+    wrapping 0.308456
+    wrapping 0.655573
+    sum(coinToss): 7
+    flicker: 0.474061
+    flicker: 0.896667
+    flicker: 0.152448
+    flicker: 0.214202
+    flicker: 0.631512
+    flicker: 0.091315
+    flicker: 0.317317
+    flicker: 0.208552
+    flicker: 0.143394
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    wrapping 0.756523
+    sum(coinToss): 9
+    flicker: 0.361764
+    flicker: 0.341847
+    flicker: 0.918090
+    flicker: 0.082814
+    flicker: 0.941447
+    flicker: 0.080936
+    flicker: 0.592252
+    flicker: 0.364225
+    flicker: 0.708862
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.866076
+    flicker: 0.850960
+    flicker: 0.045706
+    flicker: 0.041322
+    flicker: 0.840518
+    flicker: 0.458069
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    flicker: 0.434964
+    flicker: 0.700462
+    flicker: 0.983921
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.568906
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.475399
+    flicker: 0.689653
+    flicker: 0.167879
+    flicker: 0.832420
+    flicker: 0.220211
+    flicker: 0.300699
+    flicker: 0.584953
+    flicker: 0.262549
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.488079
+    flicker: 0.025888
+    flicker: 0.989975
+    flicker: 0.216986
+    flicker: 0.551741
+    flicker: 0.807482
+    flicker: 0.521238
+    flicker: 0.473481
+    flicker: 0.542433
+    flicker: 0.525889
+    flicker: 0.555025
+    flicker: 0.720651
+    flicker: 0.023667
+    flicker: 0.887243
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.661709
+    flicker: 0.372322
+    flicker: 0.335387
+    flicker: 0.585863
+    flicker: 0.821296
+    flicker: 0.986522
+    flicker: 0.868612
+    flicker: 0.937282
+    flicker: 0.771258
+    flicker: 0.496449
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.888974
+    flicker: 0.874386
+    flicker: 0.909610
+    flicker: 0.150585
+    flicker: 0.583188
+    flicker: 0.399278
+    flicker: 0.337290
+    flicker: 0.434871
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.690868
+    flicker: 0.314424
+    flicker: 0.783999
+    flicker: 0.658870
+    flicker: 0.617958
+    flicker: 0.698118
+    flicker: 0.061365
+    flicker: 0.963191
+    flicker: 0.214637
+    flicker: 0.567732
+    flicker: 0.126564
+    flicker: 0.252805
+    flicker: 0.617572
+    flicker: 0.775450
+    flicker: 0.491224
+    flicker: 0.486249
+    wrapping 0.336491
+    sum(coinToss): 11
+    flicker: 0.689178
+    flicker: 0.656657
+    flicker: 0.439359
+    flicker: 0.856021
+    flicker: 0.305600
+    flicker: 0.756328
+    flicker: 0.506347
+    flicker: 0.781624
+    wrapping 0.491136
+    sum(coinToss): 9
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    flicker: 0.932081
+    flicker: 0.206439
+    flicker: 0.349485
+    flicker: 0.011612
+    flicker: 0.728653
+    flicker: 0.752162
+    flicker: 0.626287
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    flicker: 0.680538
+    flicker: 0.121831
+    flicker: 0.543112
+    flicker: 0.855189
+    flicker: 0.067010
+    flicker: 0.396643
+    flicker: 0.419891
+    flicker: 0.587518
+    flicker: 0.075228
+    flicker: 0.024582
+    flicker: 0.002035
+    flicker: 0.034957
+    flicker: 0.703107
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.028105
+    flicker: 0.395044
+    flicker: 0.479051
+    flicker: 0.678335
+    flicker: 0.510892
+    flicker: 0.379230
+    flicker: 0.578600
+    flicker: 0.424546
+    flicker: 0.463505
+    flicker: 0.463837
+    flicker: 0.643309
+    flicker: 0.555068
+    flicker: 0.726471
+    flicker: 0.341077
+    flicker: 0.675159
+    flicker: 0.342063
+    flicker: 0.832988
+    flicker: 0.589766
+    flicker: 0.382324
+    flicker: 0.143426
+    flicker: 0.822194
+    flicker: 0.491286
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.707927
+    flicker: 0.648231
+    flicker: 0.190407
+    flicker: 0.037311
+    flicker: 0.293973
+    flicker: 0.399872
+    flicker: 0.232566
+    flicker: 0.485835
+    flicker: 0.147057
+    flicker: 0.808839
+    flicker: 0.239172
+    flicker: 0.384939
+    flicker: 0.370551
+    flicker: 0.100417
+    wrapping 0.866350
+    wrapping 0.987497
+    sum(coinToss): 7
+    flicker: 0.622610
+    flicker: 0.554751
+    flicker: 0.285324
+    flicker: 0.942781
+    flicker: 0.954819
+    flicker: 0.500027
+    flicker: 0.416870
+    flicker: 0.290605
+    flicker: 0.300602
+    flicker: 0.941924
+    flicker: 0.894704
+    flicker: 0.612908
+    flicker: 0.073292
+    flicker: 0.906272
+    flicker: 0.659862
+    flicker: 0.172722
+    flicker: 0.398548
+    flicker: 0.501390
+    wrapping 0.647638
+    sum(coinToss): 9
+    flicker: 0.943846
+    flicker: 0.483531
+    flicker: 0.860224
+    flicker: 0.326920
+    flicker: 0.934419
+    flicker: 0.945386
+    flicker: 0.573484
+    flicker: 0.368394
+    flicker: 0.134932
+    flicker: 0.996224
+    flicker: 0.104067
+    flicker: 0.073024
+    wrapping 0.738697
+    sum(coinToss): 9
+    flicker: 0.276105
+    flicker: 0.902337
+    flicker: 0.483749
+    flicker: 0.756525
+    flicker: 0.045921
+    flicker: 0.259727
+    flicker: 0.669115
+    flicker: 0.790864
+    flicker: 0.124973
+    flicker: 0.716698
+    flicker: 0.099346
+    flicker: 0.479007
+    wrapping 
+Trial 12/20, end dir=180, coh=55: dir ans 0 cp ans 1, dirRT=0.51, cpRT=0.14 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 11 dirCorrect, 1 dirError, mean dirRT=0.57, 5 cpCorrect, 7 cpError, mean dirRT=0.24, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 13/20, init dir=0, coh=55
+    sum(coinToss): 11
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    flicker: 0.166691
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.978085
+    flicker: 0.908842
+    flicker: 0.711802
+    flicker: 0.266541
+    flicker: 0.790381
+    flicker: 0.723676
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    flicker: 0.610967
+    flicker: 0.436788
+    flicker: 0.102170
+    flicker: 0.060043
+    flicker: 0.703569
+    flicker: 0.261455
+    flicker: 0.158939
+    flicker: 0.698614
+    flicker: 0.237923
+    flicker: 0.351064
+    flicker: 0.612059
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.815070
+    flicker: 0.023134
+    flicker: 0.771920
+    flicker: 0.338635
+    flicker: 0.447801
+    flicker: 0.235462
+    flicker: 0.287604
+    flicker: 0.394433
+    flicker: 0.011614
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    flicker: 0.169881
+    wrapping 0.886599
+    sum(coinToss): 8
+    flicker: 0.024217
+    flicker: 0.913203
+    flicker: 0.720496
+    flicker: 0.488976
+    flicker: 0.739326
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.511371
+    flicker: 0.699509
+    flicker: 0.648879
+    flicker: 0.270760
+    flicker: 0.560850
+    flicker: 0.257332
+    flicker: 0.383782
+    flicker: 0.965530
+    flicker: 0.610055
+    flicker: 0.100491
+    flicker: 0.965357
+    flicker: 0.483496
+    wrapping 0.738606
+    sum(coinToss): 5
+    flicker: 0.971652
+    flicker: 0.965022
+    flicker: 0.251243
+    flicker: 0.712221
+    flicker: 0.290294
+    flicker: 0.603691
+    flicker: 0.146800
+    flicker: 0.368965
+    flicker: 0.617152
+    flicker: 0.352912
+    flicker: 0.094402
+    flicker: 0.305451
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.750934
+    flicker: 0.649399
+    flicker: 0.933938
+    flicker: 0.488283
+    flicker: 0.958027
+    flicker: 0.176600
+    flicker: 0.623775
+    flicker: 0.566044
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.251405
+    flicker: 0.065829
+    flicker: 0.617077
+    flicker: 0.741467
+    flicker: 0.321993
+    flicker: 0.430345
+    flicker: 0.196470
+    flicker: 0.044159
+    flicker: 0.945981
+    flicker: 0.419590
+    flicker: 0.371847
+    flicker: 0.016460
+    flicker: 0.669183
+    flicker: 0.080214
+    wrapping 0.350270
+    sum(coinToss): 11
+    flicker: 0.491700
+    flicker: 0.022602
+    flicker: 0.011177
+    flicker: 0.180968
+    flicker: 0.835993
+    flicker: 0.368363
+    flicker: 0.684821
+    flicker: 0.223473
+    wrapping 0.754573
+    sum(coinToss): 7
+    flicker: 0.678001
+    flicker: 0.632938
+    flicker: 0.511411
+    flicker: 0.437872
+    flicker: 0.474061
+    flicker: 0.896667
+    flicker: 0.152448
+    flicker: 0.214202
+    flicker: 0.631512
+    flicker: 0.091315
+    flicker: 0.317317
+    flicker: 0.208552
+    flicker: 0.143394
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    wrapping 0.479138
+    sum(coinToss): 10
+    flicker: 0.239584
+    flicker: 0.236162
+    flicker: 0.361764
+    flicker: 0.341847
+    flicker: 0.918090
+    flicker: 0.082814
+    flicker: 0.941447
+    flicker: 0.080936
+    flicker: 0.592252
+    flicker: 0.364225
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.994794
+    flicker: 0.334638
+    flicker: 0.296618
+    flicker: 0.028391
+    flicker: 0.034519
+    flicker: 0.866076
+    flicker: 0.850960
+    flicker: 0.045706
+    flicker: 0.041322
+    flicker: 0.840518
+    flicker: 0.458069
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.096655
+    flicker: 0.253218
+    flicker: 0.568906
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    flicker: 0.597336
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.220211
+    flicker: 0.300699
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    flicker: 0.648721
+    flicker: 0.383693
+    flicker: 0.147933
+    flicker: 0.297332
+    flicker: 0.520921
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.720651
+    flicker: 0.023667
+    flicker: 0.887243
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    flicker: 0.367820
+    flicker: 0.427943
+    flicker: 0.142421
+    wrapping 0.542855
+    wrapping 0.150582
+    wrapping 0.418538
+    sum(coinToss): 6
+    flicker: 0.937282
+    flicker: 0.771258
+    flicker: 0.496449
+    flicker: 0.443915
+    flicker: 0.417690
+    flicker: 0.513075
+    flicker: 0.152994
+    flicker: 0.317170
+    flicker: 0.143925
+    flicker: 0.585523
+    flicker: 0.800339
+    flicker: 0.002651
+    flicker: 0.333142
+    flicker: 0.443177
+    flicker: 0.020623
+    flicker: 0.718337
+    flicker: 0.750867
+    flicker: 0.944121
+    flicker: 0.888974
+    flicker: 0.874386
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.526592
+    flicker: 0.773596
+    flicker: 0.625958
+    flicker: 0.458592
+    flicker: 0.708737
+    flicker: 0.128311
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.491224
+    flicker: 0.486249
+    flicker: 0.336491
+    flicker: 0.169780
+    flicker: 0.083879
+    flicker: 0.180839
+    flicker: 0.055894
+    flicker: 0.334324
+    flicker: 0.153190
+    flicker: 0.302481
+    flicker: 0.396432
+    flicker: 0.265539
+    flicker: 0.689303
+    flicker: 0.462258
+    flicker: 0.243879
+    flicker: 0.658889
+    flicker: 0.720938
+    flicker: 0.602627
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.596769
+    flicker: 0.820116
+    flicker: 0.557576
+    flicker: 0.529052
+    flicker: 0.999541
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    flicker: 0.932081
+    flicker: 0.206439
+    flicker: 0.349485
+    flicker: 0.011612
+    flicker: 0.728653
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.735836
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    flicker: 0.680538
+    flicker: 0.121831
+    flicker: 0.543112
+    flicker: 0.855189
+    flicker: 0.067010
+    flicker: 0.396643
+    flicker: 0.419891
+    flicker: 0.587518
+    flicker: 0.075228
+    flicker: 0.024582
+    flicker: 0.002035
+    flicker: 0.034957
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.489154
+    flicker: 0.028105
+    flicker: 0.395044
+    flicker: 0.479051
+    flicker: 0.678335
+    flicker: 0.510892
+    flicker: 0.379230
+    flicker: 0.578600
+    flicker: 0.424546
+    flicker: 0.463505
+    flicker: 0.463837
+    flicker: 0.643309
+    flicker: 0.555068
+    flicker: 0.726471
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.179305
+    flicker: 0.965631
+    flicker: 0.679437
+    flicker: 0.108929
+    flicker: 0.865823
+    flicker: 0.228456
+    flicker: 0.322994
+    flicker: 0.570573
+    wrapping 0.707927
+    wrapping 0.648231
+    sum(coinToss): 11
+    flicker: 0.525219
+    flicker: 0.876905
+    flicker: 0.177041
+    flicker: 0.982408
+    flicker: 0.022195
+    flicker: 0.892889
+    flicker: 0.401281
+    flicker: 0.683533
+    wrapping 0.314059
+    sum(coinToss): 9
+    flicker: 0.941924
+    flicker: 0.894704
+    flicker: 0.612908
+    flicker: 0.073292
+    flicker: 0.906272
+    flicker: 0.659862
+    flicker: 0.172722
+    flicker: 0.398548
+    flicker: 0.501390
+    flicker: 0.647638
+    flicker: 0.389782
+    flicker: 0.110629
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.326920
+    flicker: 0.934419
+    flicker: 0.945386
+    flicker: 0.573484
+    flicker: 0.368394
+    flicker: 0.134932
+    flicker: 0.996224
+    flicker: 0.104067
+    flicker: 0.073024
+    flicker: 0.738697
+    flicker: 0.685350
+    flicker: 0.910846
+    flicker: 0.085272
+    flicker: 0.109572
+    flicker: 0.321512
+    flicker: 0.228949
+    wrapping 
+Trial 13/20, end dir=180, coh=55: dir ans 0 cp ans 1, dirRT=0.65, cpRT=0.19 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 12 dirCorrect, 1 dirError, mean dirRT=0.57, 6 cpCorrect, 7 cpError, mean dirRT=0.23, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 14/20, init dir=0, coh=55
+    sum(coinToss): 8
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    flicker: 0.166691
+    flicker: 0.545299
+    flicker: 0.865228
+    flicker: 0.102865
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.266541
+    flicker: 0.790381
+    flicker: 0.723676
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    flicker: 0.610967
+    flicker: 0.436788
+    flicker: 0.102170
+    flicker: 0.060043
+    flicker: 0.703569
+    flicker: 0.261455
+    flicker: 0.158939
+    flicker: 0.698614
+    flicker: 0.237923
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    flicker: 0.974122
+    flicker: 0.176424
+    flicker: 0.670189
+    wrapping 0.762664
+    sum(coinToss): 7
+    flicker: 0.394433
+    flicker: 0.011614
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    flicker: 0.169881
+    flicker: 0.886599
+    flicker: 0.233154
+    flicker: 0.254493
+    flicker: 0.503994
+    flicker: 0.840780
+    flicker: 0.760225
+    flicker: 0.843393
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    flicker: 0.288432
+    flicker: 0.286102
+    flicker: 0.314203
+    flicker: 0.204721
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.257332
+    flicker: 0.383782
+    flicker: 0.965530
+    flicker: 0.610055
+    flicker: 0.100491
+    flicker: 0.965357
+    flicker: 0.483496
+    flicker: 0.738606
+    flicker: 0.014593
+    flicker: 0.829537
+    flicker: 0.574026
+    flicker: 0.071365
+    flicker: 0.919968
+    flicker: 0.628301
+    flicker: 0.334681
+    flicker: 0.302630
+    flicker: 0.873734
+    flicker: 0.628556
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.305451
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    flicker: 0.347698
+    flicker: 0.348576
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.958027
+    flicker: 0.176600
+    flicker: 0.623775
+    flicker: 0.566044
+    flicker: 0.381903
+    flicker: 0.666538
+    flicker: 0.817096
+    flicker: 0.967944
+    flicker: 0.099552
+    flicker: 0.172758
+    flicker: 0.965350
+    flicker: 0.634044
+    wrapping 0.583674
+    sum(coinToss): 10
+    flicker: 0.419590
+    flicker: 0.371847
+    flicker: 0.016460
+    flicker: 0.669183
+    flicker: 0.080214
+    flicker: 0.350270
+    flicker: 0.093192
+    flicker: 0.428749
+    flicker: 0.102872
+    flicker: 0.534883
+    wrapping 0.396120
+    sum(coinToss): 11
+    flicker: 0.684821
+    flicker: 0.223473
+    flicker: 0.754573
+    flicker: 0.936755
+    flicker: 0.178665
+    flicker: 0.985569
+    flicker: 0.308456
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    wrapping 0.128748
+    wrapping 0.195665
+    sum(coinToss): 4
+    flicker: 0.631512
+    flicker: 0.091315
+    flicker: 0.317317
+    flicker: 0.208552
+    flicker: 0.143394
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    flicker: 0.819965
+    flicker: 0.445128
+    flicker: 0.158450
+    flicker: 0.571441
+    flicker: 0.323750
+    flicker: 0.280655
+    wrapping 0.055082
+    sum(coinToss): 11
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    flicker: 0.895619
+    flicker: 0.221134
+    flicker: 0.757757
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    flicker: 0.434964
+    flicker: 0.700462
+    flicker: 0.983921
+    flicker: 0.232991
+    flicker: 0.297812
+    flicker: 0.612009
+    flicker: 0.736392
+    flicker: 0.471333
+    flicker: 0.457985
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    flicker: 0.597336
+    flicker: 0.212735
+    flicker: 0.902868
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    flicker: 0.648721
+    flicker: 0.383693
+    flicker: 0.147933
+    flicker: 0.297332
+    flicker: 0.520921
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.023667
+    flicker: 0.887243
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    flicker: 0.367820
+    flicker: 0.427943
+    flicker: 0.142421
+    flicker: 0.542855
+    flicker: 0.150582
+    flicker: 0.418538
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.868612
+    flicker: 0.937282
+    flicker: 0.771258
+    flicker: 0.496449
+    flicker: 0.443915
+    flicker: 0.417690
+    flicker: 0.513075
+    flicker: 0.152994
+    flicker: 0.317170
+    flicker: 0.143925
+    flicker: 0.585523
+    flicker: 0.800339
+    flicker: 0.002651
+    flicker: 0.333142
+    flicker: 0.443177
+    flicker: 0.020623
+    flicker: 0.718337
+    flicker: 0.750867
+    flicker: 0.944121
+    flicker: 0.888974
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.227156
+    flicker: 0.526592
+    flicker: 0.773596
+    flicker: 0.625958
+    flicker: 0.458592
+    flicker: 0.708737
+    flicker: 0.128311
+    flicker: 0.300191
+    flicker: 0.690868
+    flicker: 0.314424
+    flicker: 0.783999
+    flicker: 0.658870
+    flicker: 0.617958
+    flicker: 0.698118
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.153190
+    flicker: 0.302481
+    flicker: 0.396432
+    flicker: 0.265539
+    flicker: 0.689303
+    flicker: 0.462258
+    flicker: 0.243879
+    flicker: 0.658889
+    flicker: 0.720938
+    flicker: 0.602627
+    flicker: 0.689178
+    flicker: 0.656657
+    wrapping 0.439359
+    sum(coinToss): 7
+    flicker: 0.557576
+    flicker: 0.529052
+    flicker: 0.999541
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    flicker: 0.932081
+    flicker: 0.206439
+    flicker: 0.349485
+    flicker: 0.011612
+    flicker: 0.728653
+    wrapping 0.752162
+    sum(coinToss): 7
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    flicker: 0.680538
+    flicker: 0.121831
+    flicker: 0.543112
+    flicker: 0.855189
+    flicker: 0.067010
+    flicker: 0.396643
+    flicker: 0.419891
+    flicker: 0.587518
+    flicker: 0.075228
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.954848
+    flicker: 0.494439
+    flicker: 0.489154
+    flicker: 0.028105
+    flicker: 0.395044
+    flicker: 0.479051
+    flicker: 0.678335
+    flicker: 0.510892
+    flicker: 0.379230
+    flicker: 0.578600
+    flicker: 0.424546
+    flicker: 0.463505
+    wrapping 0.463837
+    sum(coinToss): 3
+    flicker: 0.010154
+    flicker: 0.544213
+    flicker: 0.328960
+    flicker: 0.528345
+    flicker: 0.179305
+    flicker: 0.965631
+    flicker: 0.679437
+    flicker: 0.108929
+    flicker: 0.865823
+    flicker: 0.228456
+    flicker: 0.322994
+    flicker: 0.570573
+    flicker: 0.707927
+    flicker: 0.648231
+    flicker: 0.190407
+    flicker: 0.037311
+    flicker: 0.293973
+    flicker: 0.399872
+    flicker: 0.232566
+    flicker: 0.485835
+    flicker: 0.147057
+    flicker: 0.808839
+    flicker: 0.239172
+    flicker: 0.384939
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.820007
+    flicker: 0.140595
+    flicker: 0.835425
+    flicker: 0.237735
+    flicker: 0.945451
+    flicker: 0.622610
+    flicker: 0.554751
+    flicker: 0.285324
+    flicker: 0.942781
+    flicker: 0.954819
+    flicker: 0.500027
+    flicker: 0.416870
+    flicker: 0.290605
+    flicker: 0.300602
+    flicker: 0.941924
+    flicker: 0.894704
+    flicker: 0.612908
+    flicker: 0.073292
+    wrapping 0.906272
+    sum(coinToss): 9
+    flicker: 0.139253
+    flicker: 0.744990
+    flicker: 0.999506
+    flicker: 0.966422
+    flicker: 0.943846
+    flicker: 0.483531
+    flicker: 0.860224
+    flicker: 0.326920
+    flicker: 0.934419
+    flicker: 0.945386
+    flicker: 0.573484
+    flicker: 0.368394
+    flicker: 0.134932
+    flicker: 0.996224
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.538211
+    flicker: 0.007025
+    flicker: 0.944528
+    flicker: 0.276105
+    flicker: 0.902337
+    flicker: 0.483749
+    flicker: 0.756525
+    flicker: 0.045921
+    flicker: 0.259727
+    flicker: 0.669115
+    flicker: 0.790864
+    flicker: 0.124973
+    wrapping 0.716698
+Trial 14/20, end dir=180, coh=55: dir ans 0 cp ans 0, dirRT=0.36, cpRT=0.10 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 13 dirCorrect, 1 dirError, mean dirRT=0.56, 6 cpCorrect, 8 cpError, mean dirRT=0.22, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 15/20, init dir=0, coh=55
+    sum(coinToss): 10
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    wrapping 0.166691
+    sum(coinToss): 13
+    flicker: 0.908842
+    flicker: 0.711802
+    flicker: 0.266541
+    flicker: 0.790381
+    flicker: 0.723676
+    flicker: 0.229518
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.974122
+    flicker: 0.176424
+    flicker: 0.670189
+    flicker: 0.762664
+    flicker: 0.896495
+    flicker: 0.696399
+    flicker: 0.945740
+    flicker: 0.558222
+    flicker: 0.915422
+    flicker: 0.504947
+    wrapping 
+    sum(coinToss): 13
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.140329
+    flicker: 0.819693
+    flicker: 0.368586
+    flicker: 0.024217
+    flicker: 0.913203
+    flicker: 0.720496
+    flicker: 0.488976
+    flicker: 0.739326
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.699509
+    flicker: 0.648879
+    flicker: 0.270760
+    flicker: 0.560850
+    flicker: 0.257332
+    flicker: 0.383782
+    flicker: 0.965530
+    flicker: 0.610055
+    flicker: 0.100491
+    flicker: 0.965357
+    wrapping 0.483496
+    sum(coinToss): 5
+    flicker: 0.799204
+    flicker: 0.971652
+    flicker: 0.965022
+    flicker: 0.251243
+    flicker: 0.712221
+    flicker: 0.290294
+    flicker: 0.603691
+    flicker: 0.146800
+    flicker: 0.368965
+    flicker: 0.617152
+    flicker: 0.352912
+    flicker: 0.094402
+    flicker: 0.305451
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.878147
+    flicker: 0.750934
+    flicker: 0.649399
+    flicker: 0.933938
+    flicker: 0.488283
+    flicker: 0.958027
+    flicker: 0.176600
+    flicker: 0.623775
+    wrapping 0.566044
+    sum(coinToss): 8
+    flicker: 0.251405
+    flicker: 0.065829
+    flicker: 0.617077
+    flicker: 0.741467
+    flicker: 0.321993
+    flicker: 0.430345
+    flicker: 0.196470
+    flicker: 0.044159
+    flicker: 0.945981
+    flicker: 0.419590
+    flicker: 0.371847
+    flicker: 0.016460
+    flicker: 0.669183
+    flicker: 0.080214
+    wrapping 0.350270
+    sum(coinToss): 11
+    flicker: 0.491700
+    flicker: 0.022602
+    flicker: 0.011177
+    flicker: 0.180968
+    flicker: 0.835993
+    flicker: 0.368363
+    flicker: 0.684821
+    flicker: 0.223473
+    wrapping 0.754573
+    wrapping 0.936755
+    wrapping 0.178665
+    sum(coinToss): 5
+    flicker: 0.511411
+    flicker: 0.437872
+    flicker: 0.474061
+    flicker: 0.896667
+    flicker: 0.152448
+    flicker: 0.214202
+    flicker: 0.631512
+    flicker: 0.091315
+    flicker: 0.317317
+    flicker: 0.208552
+    flicker: 0.143394
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.082814
+    flicker: 0.941447
+    flicker: 0.080936
+    flicker: 0.592252
+    flicker: 0.364225
+    flicker: 0.708862
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.045706
+    flicker: 0.041322
+    flicker: 0.840518
+    flicker: 0.458069
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.010769
+    flicker: 0.096655
+    flicker: 0.253218
+    flicker: 0.568906
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    flicker: 0.597336
+    flicker: 0.212735
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.300699
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    flicker: 0.648721
+    flicker: 0.383693
+    flicker: 0.147933
+    flicker: 0.297332
+    wrapping 0.520921
+    sum(coinToss): 6
+    flicker: 0.720651
+    flicker: 0.023667
+    flicker: 0.887243
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    flicker: 0.367820
+    flicker: 0.427943
+    flicker: 0.142421
+    flicker: 0.542855
+    flicker: 0.150582
+    flicker: 0.418538
+    flicker: 0.104671
+    flicker: 0.555357
+    flicker: 0.993997
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.443915
+    flicker: 0.417690
+    flicker: 0.513075
+    flicker: 0.152994
+    flicker: 0.317170
+    flicker: 0.143925
+    flicker: 0.585523
+    flicker: 0.800339
+    flicker: 0.002651
+    flicker: 0.333142
+    flicker: 0.443177
+    flicker: 0.020623
+    flicker: 0.718337
+    flicker: 0.750867
+    flicker: 0.944121
+    flicker: 0.888974
+    flicker: 0.874386
+    flicker: 0.909610
+    flicker: 0.150585
+    flicker: 0.583188
+    flicker: 0.399278
+    flicker: 0.337290
+    flicker: 0.434871
+    flicker: 0.960840
+    wrapping 0.153602
+    sum(coinToss): 5
+    flicker: 0.314424
+    flicker: 0.783999
+    flicker: 0.658870
+    flicker: 0.617958
+    flicker: 0.698118
+    flicker: 0.061365
+    flicker: 0.963191
+    flicker: 0.214637
+    flicker: 0.567732
+    flicker: 0.126564
+    flicker: 0.252805
+    flicker: 0.617572
+    flicker: 0.775450
+    flicker: 0.491224
+    flicker: 0.486249
+    flicker: 0.336491
+    flicker: 0.169780
+    flicker: 0.083879
+    flicker: 0.180839
+    flicker: 0.055894
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.305600
+    flicker: 0.756328
+    flicker: 0.506347
+    flicker: 0.781624
+    flicker: 0.491136
+    flicker: 0.970474
+    flicker: 0.458026
+    flicker: 0.322225
+    flicker: 0.695256
+    flicker: 0.999477
+    flicker: 0.528502
+    flicker: 0.910075
+    flicker: 0.596769
+    flicker: 0.820116
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.752162
+    flicker: 0.626287
+    flicker: 0.751371
+    flicker: 0.374304
+    flicker: 0.337721
+    flicker: 0.518899
+    flicker: 0.749894
+    flicker: 0.743779
+    flicker: 0.494102
+    flicker: 0.297993
+    wrapping 0.825561
+    sum(coinToss): 9
+    flicker: 0.855189
+    flicker: 0.067010
+    flicker: 0.396643
+    flicker: 0.419891
+    flicker: 0.587518
+    flicker: 0.075228
+    flicker: 0.024582
+    flicker: 0.002035
+    flicker: 0.034957
+    flicker: 0.703107
+    flicker: 0.681642
+    flicker: 0.221485
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.479051
+    flicker: 0.678335
+    flicker: 0.510892
+    flicker: 0.379230
+    flicker: 0.578600
+    flicker: 0.424546
+    flicker: 0.463505
+    flicker: 0.463837
+    flicker: 0.643309
+    flicker: 0.555068
+    flicker: 0.726471
+    flicker: 0.341077
+    flicker: 0.675159
+    flicker: 0.342063
+    flicker: 0.832988
+    flicker: 0.589766
+    flicker: 0.382324
+    flicker: 0.143426
+    flicker: 0.822194
+    flicker: 0.491286
+    flicker: 0.728857
+    flicker: 0.115151
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.037311
+    flicker: 0.293973
+    flicker: 0.399872
+    flicker: 0.232566
+    flicker: 0.485835
+    flicker: 0.147057
+    flicker: 0.808839
+    flicker: 0.239172
+    flicker: 0.384939
+    flicker: 0.370551
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.140595
+    flicker: 0.835425
+    flicker: 0.237735
+    flicker: 0.945451
+    flicker: 0.622610
+    flicker: 0.554751
+    flicker: 0.285324
+    flicker: 0.942781
+    flicker: 0.954819
+    flicker: 0.500027
+    flicker: 0.416870
+    flicker: 0.290605
+    flicker: 0.300602
+    flicker: 0.941924
+    flicker: 0.894704
+    flicker: 0.612908
+    flicker: 0.073292
+    flicker: 0.906272
+    wrapping 0.659862
+    wrapping 0.172722
+    sum(coinToss): 7
+    flicker: 0.744990
+    flicker: 0.999506
+    flicker: 0.966422
+    flicker: 0.943846
+    flicker: 0.483531
+    flicker: 0.860224
+    flicker: 0.326920
+    flicker: 0.934419
+    flicker: 0.945386
+    flicker: 0.573484
+    flicker: 0.368394
+    flicker: 0.134932
+    flicker: 0.996224
+    flicker: 0.104067
+    flicker: 0.073024
+    flicker: 0.738697
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.902337
+    flicker: 0.483749
+    flicker: 0.756525
+    flicker: 0.045921
+    flicker: 0.259727
+    flicker: 0.669115
+    flicker: 0.790864
+    flicker: 0.124973
+    flicker: 0.716698
+    flicker: 0.099346
+    flicker: 0.479007
+    flicker: 0.389042
+    wrapping 0.737105
+Trial 15/20, end dir=180, coh=55: dir ans 0 cp ans 0, dirRT=0.41, cpRT=0.13 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 14 dirCorrect, 1 dirError, mean dirRT=0.55, 6 cpCorrect, 9 cpError, mean dirRT=0.22, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 16/20, init dir=0, coh=55
+    sum(coinToss): 12
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.082639
+    flicker: 0.887249
+    flicker: 0.207034
+    flicker: 0.641053
+    flicker: 0.643971
+    flicker: 0.978085
+    wrapping 0.908842
+    sum(coinToss): 9
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    flicker: 0.974122
+    flicker: 0.176424
+    flicker: 0.670189
+    flicker: 0.762664
+    flicker: 0.896495
+    flicker: 0.696399
+    flicker: 0.945740
+    flicker: 0.558222
+    flicker: 0.915422
+    flicker: 0.504947
+    wrapping 
+    sum(coinToss): 13
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.507705
+    flicker: 0.140329
+    flicker: 0.819693
+    flicker: 0.368586
+    flicker: 0.024217
+    flicker: 0.913203
+    flicker: 0.720496
+    flicker: 0.488976
+    flicker: 0.739326
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.682663
+    flicker: 0.404739
+    flicker: 0.644960
+    flicker: 0.511371
+    flicker: 0.699509
+    flicker: 0.648879
+    flicker: 0.270760
+    flicker: 0.560850
+    wrapping 0.257332
+    sum(coinToss): 11
+    flicker: 0.873734
+    flicker: 0.628556
+    flicker: 0.263789
+    flicker: 0.988699
+    flicker: 0.820085
+    flicker: 0.772778
+    flicker: 0.799204
+    flicker: 0.971652
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    flicker: 0.347698
+    flicker: 0.348576
+    flicker: 0.442746
+    flicker: 0.979099
+    flicker: 0.038203
+    flicker: 0.232055
+    flicker: 0.299014
+    flicker: 0.481331
+    flicker: 0.250818
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.099552
+    flicker: 0.172758
+    flicker: 0.965350
+    flicker: 0.634044
+    flicker: 0.583674
+    flicker: 0.567352
+    flicker: 0.435236
+    flicker: 0.748676
+    flicker: 0.141006
+    flicker: 0.893234
+    flicker: 0.155185
+    flicker: 0.251405
+    flicker: 0.065829
+    flicker: 0.617077
+    flicker: 0.741467
+    flicker: 0.321993
+    flicker: 0.430345
+    flicker: 0.196470
+    flicker: 0.044159
+    flicker: 0.945981
+    wrapping 
+    sum(coinToss): 13
+    flicker: 0.722055
+    flicker: 0.827823
+    flicker: 0.974213
+    flicker: 0.109273
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    flicker: 0.128748
+    flicker: 0.195665
+    flicker: 0.254306
+    flicker: 0.635213
+    flicker: 0.257117
+    flicker: 0.622894
+    flicker: 0.898296
+    wrapping 0.981647
+    sum(coinToss): 9
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    flicker: 0.819965
+    flicker: 0.445128
+    flicker: 0.158450
+    flicker: 0.571441
+    flicker: 0.323750
+    wrapping 0.280655
+    sum(coinToss): 10
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    flicker: 0.895619
+    flicker: 0.221134
+    flicker: 0.757757
+    flicker: 0.478695
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    flicker: 0.434964
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.253218
+    flicker: 0.568906
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    wrapping 0.597336
+    sum(coinToss): 8
+    flicker: 0.220211
+    flicker: 0.300699
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    flicker: 0.648721
+    flicker: 0.383693
+    flicker: 0.147933
+    wrapping 0.297332
+    sum(coinToss): 9
+    flicker: 0.555025
+    flicker: 0.720651
+    flicker: 0.023667
+    flicker: 0.887243
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    flicker: 0.367820
+    flicker: 0.427943
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.585863
+    flicker: 0.821296
+    flicker: 0.986522
+    flicker: 0.868612
+    flicker: 0.937282
+    flicker: 0.771258
+    flicker: 0.496449
+    flicker: 0.443915
+    flicker: 0.417690
+    flicker: 0.513075
+    flicker: 0.152994
+    flicker: 0.317170
+    flicker: 0.143925
+    flicker: 0.585523
+    flicker: 0.800339
+    flicker: 0.002651
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.153602
+    flicker: 0.674328
+    flicker: 0.726645
+    flicker: 0.206107
+    flicker: 0.302990
+    flicker: 0.995865
+    flicker: 0.651087
+    flicker: 0.227156
+    flicker: 0.526592
+    flicker: 0.773596
+    flicker: 0.625958
+    flicker: 0.458592
+    flicker: 0.708737
+    flicker: 0.128311
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.491224
+    flicker: 0.486249
+    flicker: 0.336491
+    flicker: 0.169780
+    flicker: 0.083879
+    flicker: 0.180839
+    flicker: 0.055894
+    flicker: 0.334324
+    flicker: 0.153190
+    flicker: 0.302481
+    flicker: 0.396432
+    flicker: 0.265539
+    flicker: 0.689303
+    flicker: 0.462258
+    flicker: 0.243879
+    flicker: 0.658889
+    flicker: 0.720938
+    flicker: 0.602627
+    wrapping 0.689178
+    sum(coinToss): 8
+    flicker: 0.820116
+    flicker: 0.557576
+    flicker: 0.529052
+    flicker: 0.999541
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    flicker: 0.932081
+    flicker: 0.206439
+    flicker: 0.349485
+    flicker: 0.011612
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.111239
+    flicker: 0.735836
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    flicker: 0.680538
+    flicker: 0.121831
+    flicker: 0.543112
+    flicker: 0.855189
+    flicker: 0.067010
+    flicker: 0.396643
+    flicker: 0.419891
+    flicker: 0.587518
+    flicker: 0.075228
+    flicker: 0.024582
+    flicker: 0.002035
+    flicker: 0.034957
+    flicker: 0.703107
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.028105
+    flicker: 0.395044
+    flicker: 0.479051
+    flicker: 0.678335
+    flicker: 0.510892
+    flicker: 0.379230
+    flicker: 0.578600
+    flicker: 0.424546
+    flicker: 0.463505
+    flicker: 0.463837
+    flicker: 0.643309
+    flicker: 0.555068
+    flicker: 0.726471
+    flicker: 0.341077
+    flicker: 0.675159
+    flicker: 0.342063
+    wrapping 
+    sum(coinToss): 13
+    flicker: 0.108929
+    flicker: 0.865823
+    flicker: 0.228456
+    flicker: 0.322994
+    flicker: 0.570573
+    flicker: 0.707927
+    wrapping 0.648231
+    sum(coinToss): 11
+    flicker: 0.525219
+    flicker: 0.876905
+    flicker: 0.177041
+    flicker: 0.982408
+    flicker: 0.022195
+    flicker: 0.892889
+    flicker: 0.401281
+    flicker: 0.683533
+    wrapping 0.314059
+    wrapping 0.952470
+    wrapping 0.820007
+Trial 16/20, end dir=180, coh=55: dir ans 0 cp ans 1, dirRT=0.38, cpRT=0.06 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 15 dirCorrect, 1 dirError, mean dirRT=0.54, 7 cpCorrect, 9 cpError, mean dirRT=0.21, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 17/20, init dir=0, coh=55
+    sum(coinToss): 13
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    wrapping 0.518076
+    sum(coinToss): 12
+    flicker: 0.082639
+    flicker: 0.887249
+    flicker: 0.207034
+    flicker: 0.641053
+    flicker: 0.643971
+    flicker: 0.978085
+    flicker: 0.908842
+    flicker: 0.711802
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    flicker: 0.974122
+    flicker: 0.176424
+    flicker: 0.670189
+    flicker: 0.762664
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.287604
+    flicker: 0.394433
+    flicker: 0.011614
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    flicker: 0.169881
+    flicker: 0.886599
+    flicker: 0.233154
+    flicker: 0.254493
+    flicker: 0.503994
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.488976
+    flicker: 0.739326
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    flicker: 0.288432
+    flicker: 0.286102
+    flicker: 0.314203
+    flicker: 0.204721
+    flicker: 0.687361
+    flicker: 0.344880
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.965530
+    flicker: 0.610055
+    flicker: 0.100491
+    flicker: 0.965357
+    flicker: 0.483496
+    flicker: 0.738606
+    flicker: 0.014593
+    flicker: 0.829537
+    flicker: 0.574026
+    flicker: 0.071365
+    flicker: 0.919968
+    flicker: 0.628301
+    flicker: 0.334681
+    flicker: 0.302630
+    flicker: 0.873734
+    flicker: 0.628556
+    flicker: 0.263789
+    flicker: 0.988699
+    wrapping 0.820085
+    sum(coinToss): 9
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    flicker: 0.347698
+    flicker: 0.348576
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.176600
+    flicker: 0.623775
+    flicker: 0.566044
+    flicker: 0.381903
+    flicker: 0.666538
+    flicker: 0.817096
+    flicker: 0.967944
+    flicker: 0.099552
+    flicker: 0.172758
+    flicker: 0.965350
+    flicker: 0.634044
+    flicker: 0.583674
+    flicker: 0.567352
+    flicker: 0.435236
+    wrapping 0.748676
+    sum(coinToss): 11
+    flicker: 0.669183
+    flicker: 0.080214
+    flicker: 0.350270
+    flicker: 0.093192
+    flicker: 0.428749
+    flicker: 0.102872
+    flicker: 0.534883
+    flicker: 0.396120
+    wrapping 0.295284
+    sum(coinToss): 10
+    flicker: 0.684821
+    flicker: 0.223473
+    flicker: 0.754573
+    flicker: 0.936755
+    flicker: 0.178665
+    flicker: 0.985569
+    flicker: 0.308456
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    wrapping 0.128748
+    wrapping 0.195665
+    sum(coinToss): 7
+    flicker: 0.091315
+    flicker: 0.317317
+    flicker: 0.208552
+    flicker: 0.143394
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    flicker: 0.819965
+    flicker: 0.445128
+    flicker: 0.158450
+    wrapping 0.571441
+    sum(coinToss): 9
+    flicker: 0.364225
+    flicker: 0.708862
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    flicker: 0.895619
+    flicker: 0.221134
+    flicker: 0.757757
+    flicker: 0.478695
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    flicker: 0.434964
+    flicker: 0.700462
+    flicker: 0.983921
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    flicker: 0.597336
+    flicker: 0.212735
+    flicker: 0.902868
+    flicker: 0.304848
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    wrapping 0.648721
+    sum(coinToss): 6
+    flicker: 0.473481
+    flicker: 0.542433
+    flicker: 0.525889
+    flicker: 0.555025
+    flicker: 0.720651
+    flicker: 0.023667
+    flicker: 0.887243
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    flicker: 0.367820
+    flicker: 0.427943
+    flicker: 0.142421
+    flicker: 0.542855
+    flicker: 0.150582
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.868612
+    flicker: 0.937282
+    flicker: 0.771258
+    flicker: 0.496449
+    flicker: 0.443915
+    flicker: 0.417690
+    flicker: 0.513075
+    flicker: 0.152994
+    flicker: 0.317170
+    flicker: 0.143925
+    flicker: 0.585523
+    flicker: 0.800339
+    flicker: 0.002651
+    flicker: 0.333142
+    flicker: 0.443177
+    flicker: 0.020623
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.206107
+    flicker: 0.302990
+    flicker: 0.995865
+    flicker: 0.651087
+    flicker: 0.227156
+    flicker: 0.526592
+    flicker: 0.773596
+    flicker: 0.625958
+    flicker: 0.458592
+    flicker: 0.708737
+    flicker: 0.128311
+    flicker: 0.300191
+    flicker: 0.690868
+    flicker: 0.314424
+    flicker: 0.783999
+    flicker: 0.658870
+    flicker: 0.617958
+    flicker: 0.698118
+    flicker: 0.061365
+    flicker: 0.963191
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.302481
+    flicker: 0.396432
+    flicker: 0.265539
+    flicker: 0.689303
+    flicker: 0.462258
+    flicker: 0.243879
+    flicker: 0.658889
+    flicker: 0.720938
+    flicker: 0.602627
+    flicker: 0.689178
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.820116
+    flicker: 0.557576
+    flicker: 0.529052
+    flicker: 0.999541
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    wrapping 0.932081
+    sum(coinToss): 10
+    flicker: 0.861056
+    flicker: 0.777248
+    flicker: 0.359470
+    flicker: 0.111239
+    flicker: 0.735836
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.681642
+    flicker: 0.221485
+    flicker: 0.549400
+    flicker: 0.974316
+    flicker: 0.499731
+    flicker: 0.200053
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.424546
+    flicker: 0.463505
+    flicker: 0.463837
+    flicker: 0.643309
+    flicker: 0.555068
+    flicker: 0.726471
+    flicker: 0.341077
+    flicker: 0.675159
+    flicker: 0.342063
+    flicker: 0.832988
+    flicker: 0.589766
+    flicker: 0.382324
+    wrapping 0.143426
+    sum(coinToss): 7
+    flicker: 0.322994
+    flicker: 0.570573
+    flicker: 0.707927
+    flicker: 0.648231
+    flicker: 0.190407
+    flicker: 0.037311
+    flicker: 0.293973
+    flicker: 0.399872
+    flicker: 0.232566
+    flicker: 0.485835
+    flicker: 0.147057
+    flicker: 0.808839
+    flicker: 0.239172
+    flicker: 0.384939
+    flicker: 0.370551
+    flicker: 0.100417
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.835425
+    flicker: 0.237735
+    flicker: 0.945451
+    flicker: 0.622610
+    flicker: 0.554751
+    flicker: 0.285324
+    flicker: 0.942781
+    flicker: 0.954819
+    flicker: 0.500027
+    flicker: 0.416870
+    flicker: 0.290605
+    flicker: 0.300602
+    flicker: 0.941924
+    flicker: 0.894704
+    flicker: 0.612908
+    flicker: 0.073292
+    flicker: 0.906272
+    flicker: 0.659862
+    flicker: 0.172722
+    flicker: 0.398548
+    wrapping 
+Trial 17/20, end dir=180, coh=55: dir ans 0 cp ans 1, dirRT=0.28, cpRT=0.09 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 16 dirCorrect, 1 dirError, mean dirRT=0.52, 8 cpCorrect, 9 cpError, mean dirRT=0.20, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 18/20, init dir=0, coh=55
+    sum(coinToss): 8
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    flicker: 0.166691
+    flicker: 0.545299
+    flicker: 0.865228
+    flicker: 0.102865
+    flicker: 0.367156
+    flicker: 0.493885
+    flicker: 0.611822
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    flicker: 0.610967
+    flicker: 0.436788
+    flicker: 0.102170
+    flicker: 0.060043
+    flicker: 0.703569
+    flicker: 0.261455
+    flicker: 0.158939
+    flicker: 0.698614
+    flicker: 0.237923
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    flicker: 0.974122
+    flicker: 0.176424
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.447801
+    flicker: 0.235462
+    flicker: 0.287604
+    flicker: 0.394433
+    flicker: 0.011614
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    flicker: 0.169881
+    flicker: 0.886599
+    flicker: 0.233154
+    flicker: 0.254493
+    flicker: 0.503994
+    flicker: 0.840780
+    flicker: 0.760225
+    flicker: 0.843393
+    flicker: 0.935778
+    wrapping 0.158706
+    sum(coinToss): 7
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    flicker: 0.288432
+    flicker: 0.286102
+    flicker: 0.314203
+    flicker: 0.204721
+    flicker: 0.687361
+    flicker: 0.344880
+    flicker: 0.623527
+    flicker: 0.742790
+    flicker: 0.407969
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.965357
+    flicker: 0.483496
+    flicker: 0.738606
+    flicker: 0.014593
+    flicker: 0.829537
+    flicker: 0.574026
+    flicker: 0.071365
+    flicker: 0.919968
+    flicker: 0.628301
+    flicker: 0.334681
+    wrapping 0.302630
+    sum(coinToss): 5
+    flicker: 0.617152
+    flicker: 0.352912
+    flicker: 0.094402
+    flicker: 0.305451
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    flicker: 0.347698
+    flicker: 0.348576
+    flicker: 0.442746
+    flicker: 0.979099
+    flicker: 0.038203
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.381903
+    flicker: 0.666538
+    flicker: 0.817096
+    flicker: 0.967944
+    flicker: 0.099552
+    flicker: 0.172758
+    flicker: 0.965350
+    flicker: 0.634044
+    flicker: 0.583674
+    flicker: 0.567352
+    flicker: 0.435236
+    flicker: 0.748676
+    flicker: 0.141006
+    flicker: 0.893234
+    flicker: 0.155185
+    flicker: 0.251405
+    wrapping 
+    sum(coinToss): 13
+    flicker: 0.428749
+    flicker: 0.102872
+    flicker: 0.534883
+    flicker: 0.396120
+    wrapping 0.295284
+    sum(coinToss): 7
+    flicker: 0.684821
+    flicker: 0.223473
+    flicker: 0.754573
+    flicker: 0.936755
+    flicker: 0.178665
+    flicker: 0.985569
+    flicker: 0.308456
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    flicker: 0.128748
+    flicker: 0.195665
+    flicker: 0.254306
+    flicker: 0.635213
+    flicker: 0.257117
+    flicker: 0.622894
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    flicker: 0.748757
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    flicker: 0.819965
+    flicker: 0.445128
+    flicker: 0.158450
+    wrapping 0.571441
+    sum(coinToss): 10
+    flicker: 0.364225
+    flicker: 0.708862
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    flicker: 0.895619
+    flicker: 0.221134
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.840518
+    flicker: 0.458069
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    flicker: 0.202590
+    flicker: 0.261052
+    flicker: 0.434964
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.253218
+    flicker: 0.568906
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    wrapping 0.597336
+    sum(coinToss): 6
+    flicker: 0.220211
+    flicker: 0.300699
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    flicker: 0.648721
+    flicker: 0.383693
+    flicker: 0.147933
+    flicker: 0.297332
+    flicker: 0.520921
+    flicker: 0.874343
+    flicker: 0.797955
+    wrapping 0.701693
+    sum(coinToss): 10
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    flicker: 0.367820
+    flicker: 0.427943
+    flicker: 0.142421
+    flicker: 0.542855
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.986522
+    flicker: 0.868612
+    flicker: 0.937282
+    flicker: 0.771258
+    flicker: 0.496449
+    flicker: 0.443915
+    flicker: 0.417690
+    flicker: 0.513075
+    flicker: 0.152994
+    flicker: 0.317170
+    flicker: 0.143925
+    flicker: 0.585523
+    flicker: 0.800339
+    flicker: 0.002651
+    flicker: 0.333142
+    flicker: 0.443177
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.726645
+    flicker: 0.206107
+    flicker: 0.302990
+    flicker: 0.995865
+    flicker: 0.651087
+    flicker: 0.227156
+    flicker: 0.526592
+    flicker: 0.773596
+    flicker: 0.625958
+    flicker: 0.458592
+    flicker: 0.708737
+    flicker: 0.128311
+    flicker: 0.300191
+    flicker: 0.690868
+    flicker: 0.314424
+    flicker: 0.783999
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.083879
+    flicker: 0.180839
+    flicker: 0.055894
+    flicker: 0.334324
+    flicker: 0.153190
+    flicker: 0.302481
+    flicker: 0.396432
+    flicker: 0.265539
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.458026
+    flicker: 0.322225
+    flicker: 0.695256
+    flicker: 0.999477
+    flicker: 0.528502
+    flicker: 0.910075
+    flicker: 0.596769
+    flicker: 0.820116
+    flicker: 0.557576
+    flicker: 0.529052
+    flicker: 0.999541
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.297993
+    flicker: 0.825561
+    flicker: 0.861056
+    flicker: 0.777248
+    flicker: 0.359470
+    flicker: 0.111239
+    flicker: 0.735836
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.549400
+    flicker: 0.974316
+    flicker: 0.499731
+    flicker: 0.200053
+    flicker: 0.337169
+    flicker: 0.014415
+    flicker: 0.997066
+    flicker: 0.714905
+    flicker: 0.961476
+    flicker: 0.898553
+    flicker: 0.954848
+    flicker: 0.494439
+    wrapping 0.489154
+    sum(coinToss): 16
+    flicker: 
+    wrapping 0.832988
+    sum(coinToss): 11
+    flicker: 0.108929
+    flicker: 0.865823
+    flicker: 0.228456
+    flicker: 0.322994
+    flicker: 0.570573
+    flicker: 0.707927
+    flicker: 0.648231
+    flicker: 0.190407
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.876905
+    flicker: 0.177041
+    flicker: 0.982408
+    flicker: 0.022195
+    flicker: 0.892889
+    flicker: 0.401281
+    flicker: 0.683533
+    flicker: 0.314059
+    wrapping 0.952470
+    wrapping 0.820007
+    sum(coinToss): 5
+    flicker: 0.073292
+    flicker: 0.906272
+    flicker: 0.659862
+    flicker: 0.172722
+    flicker: 0.398548
+    flicker: 0.501390
+    flicker: 0.647638
+    flicker: 0.389782
+    flicker: 0.110629
+    flicker: 0.431562
+    flicker: 0.443521
+    flicker: 0.973891
+    flicker: 0.827774
+    flicker: 0.273019
+    flicker: 0.529182
+    flicker: 0.406965
+    flicker: 0.819222
+    flicker: 0.101082
+    flicker: 0.139253
+    flicker: 0.744990
+    flicker: 0.999506
+    flicker: 0.966422
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.085272
+    flicker: 0.109572
+    flicker: 0.321512
+    flicker: 0.228949
+    flicker: 0.639107
+    flicker: 0.729945
+    flicker: 0.185640
+    flicker: 0.334741
+    flicker: 0.444150
+    flicker: 0.936877
+    flicker: 0.538211
+    flicker: 0.007025
+    flicker: 0.944528
+    flicker: 0.276105
+    flicker: 0.902337
+    flicker: 0.483749
+    flicker: 0.756525
+    flicker: 0.045921
+    wrapping 
+Trial 18/20, end dir=180, coh=55: dir ans 0 cp ans 1, dirRT=0.32, cpRT=0.12 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 17 dirCorrect, 1 dirError, mean dirRT=0.51, 9 cpCorrect, 9 cpError, mean dirRT=0.20, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 19/20, init dir=0, coh=55
+    sum(coinToss): 13
+    flicker: 0.339368
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    wrapping 0.518076
+    sum(coinToss): 9
+    flicker: 0.082639
+    flicker: 0.887249
+    flicker: 0.207034
+    flicker: 0.641053
+    flicker: 0.643971
+    flicker: 0.978085
+    flicker: 0.908842
+    flicker: 0.711802
+    flicker: 0.266541
+    flicker: 0.790381
+    flicker: 0.723676
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.670189
+    flicker: 0.762664
+    flicker: 0.896495
+    flicker: 0.696399
+    flicker: 0.945740
+    flicker: 0.558222
+    flicker: 0.915422
+    flicker: 0.504947
+    flicker: 0.574646
+    flicker: 0.466901
+    flicker: 0.471971
+    flicker: 0.815070
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.389134
+    flicker: 0.169881
+    flicker: 0.886599
+    flicker: 0.233154
+    flicker: 0.254493
+    flicker: 0.503994
+    flicker: 0.840780
+    flicker: 0.760225
+    flicker: 0.843393
+    flicker: 0.935778
+    flicker: 0.158706
+    flicker: 0.621656
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    flicker: 0.760809
+    flicker: 0.288432
+    flicker: 0.286102
+    flicker: 0.314203
+    flicker: 0.204721
+    flicker: 0.687361
+    flicker: 0.344880
+    flicker: 0.623527
+    flicker: 0.742790
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.100491
+    flicker: 0.965357
+    flicker: 0.483496
+    flicker: 0.738606
+    flicker: 0.014593
+    flicker: 0.829537
+    flicker: 0.574026
+    flicker: 0.071365
+    flicker: 0.919968
+    flicker: 0.628301
+    flicker: 0.334681
+    flicker: 0.302630
+    flicker: 0.873734
+    flicker: 0.628556
+    flicker: 0.263789
+    flicker: 0.988699
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    flicker: 0.347698
+    flicker: 0.348576
+    flicker: 0.442746
+    flicker: 0.979099
+    flicker: 0.038203
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.381903
+    flicker: 0.666538
+    flicker: 0.817096
+    flicker: 0.967944
+    flicker: 0.099552
+    flicker: 0.172758
+    flicker: 0.965350
+    flicker: 0.634044
+    flicker: 0.583674
+    flicker: 0.567352
+    wrapping 0.435236
+    sum(coinToss): 10
+    flicker: 0.016460
+    flicker: 0.669183
+    flicker: 0.080214
+    flicker: 0.350270
+    flicker: 0.093192
+    flicker: 0.428749
+    flicker: 0.102872
+    flicker: 0.534883
+    flicker: 0.396120
+    flicker: 0.295284
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.684821
+    flicker: 0.223473
+    flicker: 0.754573
+    flicker: 0.936755
+    flicker: 0.178665
+    flicker: 0.985569
+    flicker: 0.308456
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    wrapping 0.128748
+    sum(coinToss): 12
+    flicker: 0.631512
+    flicker: 0.091315
+    flicker: 0.317317
+    flicker: 0.208552
+    flicker: 0.143394
+    flicker: 0.810030
+    flicker: 0.790963
+    flicker: 0.776859
+    wrapping 0.748757
+    sum(coinToss): 5
+    flicker: 0.548728
+    flicker: 0.815587
+    flicker: 0.239584
+    flicker: 0.236162
+    flicker: 0.361764
+    flicker: 0.341847
+    flicker: 0.918090
+    flicker: 0.082814
+    flicker: 0.941447
+    flicker: 0.080936
+    flicker: 0.592252
+    flicker: 0.364225
+    flicker: 0.708862
+    flicker: 0.138442
+    flicker: 0.708597
+    flicker: 0.673680
+    flicker: 0.692506
+    flicker: 0.025502
+    flicker: 0.927603
+    flicker: 0.895619
+    wrapping 
+    sum(coinToss): 9
+    flicker: 0.041322
+    flicker: 0.840518
+    flicker: 0.458069
+    flicker: 0.854240
+    flicker: 0.108045
+    flicker: 0.866498
+    flicker: 0.141640
+    flicker: 0.447860
+    flicker: 0.015121
+    flicker: 0.391956
+    flicker: 0.932359
+    flicker: 0.148945
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.823212
+    flicker: 0.010769
+    flicker: 0.096655
+    flicker: 0.253218
+    flicker: 0.568906
+    flicker: 0.383170
+    flicker: 0.046532
+    flicker: 0.369425
+    flicker: 0.825461
+    flicker: 0.620241
+    flicker: 0.152048
+    flicker: 0.701099
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    wrapping 0.066595
+    sum(coinToss): 9
+    flicker: 0.832420
+    flicker: 0.220211
+    flicker: 0.300699
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.521238
+    flicker: 0.473481
+    flicker: 0.542433
+    flicker: 0.525889
+    flicker: 0.555025
+    flicker: 0.720651
+    flicker: 0.023667
+    flicker: 0.887243
+    flicker: 0.345436
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    wrapping 0.367820
+    wrapping 0.427943
+    sum(coinToss): 8
+    flicker: 0.585863
+    flicker: 0.821296
+    flicker: 0.986522
+    flicker: 0.868612
+    flicker: 0.937282
+    flicker: 0.771258
+    flicker: 0.496449
+    flicker: 0.443915
+    flicker: 0.417690
+    flicker: 0.513075
+    flicker: 0.152994
+    flicker: 0.317170
+    flicker: 0.143925
+    flicker: 0.585523
+    flicker: 0.800339
+    flicker: 0.002651
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.153602
+    flicker: 0.674328
+    flicker: 0.726645
+    flicker: 0.206107
+    flicker: 0.302990
+    flicker: 0.995865
+    flicker: 0.651087
+    flicker: 0.227156
+    flicker: 0.526592
+    flicker: 0.773596
+    flicker: 0.625958
+    flicker: 0.458592
+    flicker: 0.708737
+    flicker: 0.128311
+    flicker: 0.300191
+    flicker: 0.690868
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.336491
+    flicker: 0.169780
+    flicker: 0.083879
+    flicker: 0.180839
+    flicker: 0.055894
+    flicker: 0.334324
+    flicker: 0.153190
+    flicker: 0.302481
+    flicker: 0.396432
+    flicker: 0.265539
+    flicker: 0.689303
+    flicker: 0.462258
+    flicker: 0.243879
+    flicker: 0.658889
+    flicker: 0.720938
+    flicker: 0.602627
+    flicker: 0.689178
+    flicker: 0.656657
+    flicker: 0.439359
+    flicker: 0.856021
+    wrapping 0.305600
+    sum(coinToss): 11
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    flicker: 0.932081
+    flicker: 0.206439
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.777248
+    flicker: 0.359470
+    flicker: 0.111239
+    flicker: 0.735836
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    flicker: 0.680538
+    flicker: 0.121831
+    flicker: 0.543112
+    flicker: 0.855189
+    flicker: 0.067010
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.014415
+    flicker: 0.997066
+    flicker: 0.714905
+    flicker: 0.961476
+    flicker: 0.898553
+    flicker: 0.954848
+    flicker: 0.494439
+    flicker: 0.489154
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.832988
+    flicker: 0.589766
+    flicker: 0.382324
+    flicker: 0.143426
+    flicker: 0.822194
+    flicker: 0.491286
+    flicker: 0.728857
+    flicker: 0.115151
+    flicker: 0.008722
+    flicker: 0.010154
+    flicker: 0.544213
+    flicker: 0.328960
+    wrapping 0.528345
+    sum(coinToss): 11
+    flicker: 0.485835
+    flicker: 0.147057
+    flicker: 0.808839
+    flicker: 0.239172
+    flicker: 0.384939
+    flicker: 0.370551
+    flicker: 0.100417
+    flicker: 0.866350
+    wrapping 0.987497
+    sum(coinToss): 8
+    flicker: 0.945451
+    flicker: 0.622610
+    flicker: 0.554751
+    flicker: 0.285324
+    flicker: 0.942781
+    flicker: 0.954819
+    flicker: 0.500027
+    flicker: 0.416870
+    flicker: 0.290605
+    flicker: 0.300602
+    flicker: 0.941924
+    flicker: 0.894704
+    flicker: 0.612908
+    flicker: 0.073292
+    wrapping 0.906272
+    wrapping 0.659862
+    wrapping 0.172722
+Trial 19/20, end dir=180, coh=55: dir ans 0 cp ans 0, dirRT=0.50, cpRT=0.02 
+    initial seed line171: 50056
+    start positions: 0.290804
+    start positions: 0.823534
+    start positions: 0.287333
+    start positions: 0.194976
+    start positions: 0.380611
+    start positions: 0.266217
+    start positions: 0.191085
+    start positions: 0.175149
+    start positions: 0.652904
+    start positions: 0.342999
+    start positions: 0.995410
+    start positions: 0.129346
+    start positions: 0.477315
+    start positions: 0.375101
+    start positions: 0.651408
+    start positions: 0.683188
+    start positions: 0.397721
+    start positions: 0.002724
+    start positions: 0.464117
+    start positions: 0.294449
+    start positions: 0.180481
+    start positions: 0.204292
+    start positions: 0.530867
+    start positions: 0.234089
+    start positions: 0.702355
+    start positions: 0.479196
+    start positions: 0.619138
+    start positions: 0.560244
+    start positions: 0.132398
+    start positions: 0.452925
+    start positions: 0.027809
+    start positions: 0.087426
+    start positions: 0.602029
+    start positions: 0.289672
+    start positions: 0.825246
+    start positions: 0.026515
+    start positions: 0.087603
+    start positions: 0.312780
+    start positions: 0.284496
+    start positions: 0.502624
+    start positions: 0.053806
+    start positions: 0.343295
+    start positions: 0.008530
+    start positions: 0.802375
+    start positions: 0.028728
+    start positions: 0.971431
+    start positions: 0.020087
+    start positions: 0.394234
+    start positions: 0.093905
+    start positions: 0.698814
+    start positions: 0.330793
+    start positions: 0.467414
+    start positions: 0.652501
+    start positions: 0.925851
+    start positions: 0.758334
+    start positions: 0.759815
+    start positions: 0.778556
+    start positions: 0.987005
+    start positions: 0.168753
+    start positions: 0.214922
+    start positions: 0.861884
+    start positions: 0.224231
+    start positions: 0.072577
+    start positions: 0.564783
+    start positions: 0.108391
+    start positions: 0.837835
+    start positions: 0.198636
+    start positions: 0.940713
+    start positions: 0.619939
+    start positions: 0.351968
+    start positions: 0.548899
+    start positions: 0.564370
+    start positions: 0.041565
+    start positions: 0.613381
+    start positions: 0.953708
+    start positions: 0.489373
+    start positions: 0.913122
+    start positions: 0.952277
+    start positions: 0.674433
+    start positions: 0.332723
+    start positions: 0.715241
+    start positions: 0.715753
+    start positions: 0.603828
+    start positions: 0.700694
+    start positions: 0.238985
+    start positions: 0.857267
+    start positions: 0.864227
+    start positions: 0.128688
+    start positions: 0.542107
+    start positions: 0.618329
+    start positions: 0.880698
+    start positions: 0.940150
+ 
+trials (block 1/1): 18 dirCorrect, 1 dirError, mean dirRT=0.51, 9 cpCorrect, 10 cpError, mean dirRT=0.19, epoch1=0.20, epoch2=0.20 dualReport=1
+Trial 20/20, init dir=0, coh=55
+    sum(coinToss): 9
+    flicker: 0.713437
+    flicker: 0.241901
+    flicker: 0.188497
+    flicker: 0.518076
+    flicker: 0.313594
+    flicker: 0.098936
+    flicker: 0.885495
+    flicker: 0.811121
+    flicker: 0.153051
+    flicker: 0.166691
+    flicker: 0.545299
+    flicker: 0.865228
+    flicker: 0.102865
+    flicker: 0.367156
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.790381
+    flicker: 0.723676
+    flicker: 0.229518
+    flicker: 0.396470
+    flicker: 0.662479
+    flicker: 0.610967
+    flicker: 0.436788
+    flicker: 0.102170
+    flicker: 0.060043
+    flicker: 0.703569
+    flicker: 0.261455
+    flicker: 0.158939
+    flicker: 0.698614
+    flicker: 0.237923
+    flicker: 0.351064
+    flicker: 0.612059
+    flicker: 0.025029
+    flicker: 0.118732
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.771920
+    flicker: 0.338635
+    flicker: 0.447801
+    flicker: 0.235462
+    flicker: 0.287604
+    flicker: 0.394433
+    flicker: 0.011614
+    flicker: 0.390593
+    flicker: 0.369152
+    flicker: 0.560900
+    flicker: 0.876586
+    flicker: 0.334996
+    flicker: 0.658459
+    flicker: 0.701761
+    flicker: 0.389134
+    flicker: 0.169881
+    wrapping 0.886599
+    sum(coinToss): 8
+    flicker: 0.024217
+    flicker: 0.913203
+    flicker: 0.720496
+    flicker: 0.488976
+    flicker: 0.739326
+    flicker: 0.926774
+    flicker: 0.084550
+    flicker: 0.876087
+    flicker: 0.095043
+    flicker: 0.024598
+    flicker: 0.399807
+    flicker: 0.976818
+    flicker: 0.814676
+    flicker: 0.404965
+    flicker: 0.398608
+    flicker: 0.527001
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.511371
+    flicker: 0.699509
+    flicker: 0.648879
+    flicker: 0.270760
+    flicker: 0.560850
+    flicker: 0.257332
+    flicker: 0.383782
+    flicker: 0.965530
+    flicker: 0.610055
+    flicker: 0.100491
+    flicker: 0.965357
+    flicker: 0.483496
+    flicker: 0.738606
+    flicker: 0.014593
+    wrapping 
+    sum(coinToss): 4
+    flicker: 0.965022
+    flicker: 0.251243
+    flicker: 0.712221
+    flicker: 0.290294
+    flicker: 0.603691
+    flicker: 0.146800
+    flicker: 0.368965
+    flicker: 0.617152
+    flicker: 0.352912
+    flicker: 0.094402
+    flicker: 0.305451
+    flicker: 0.586280
+    flicker: 0.960278
+    flicker: 0.696785
+    flicker: 0.727381
+    flicker: 0.820759
+    flicker: 0.985069
+    flicker: 0.115295
+    flicker: 0.040374
+    flicker: 0.583421
+    flicker: 0.663542
+    flicker: 0.264513
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.488283
+    flicker: 0.958027
+    flicker: 0.176600
+    flicker: 0.623775
+    flicker: 0.566044
+    flicker: 0.381903
+    flicker: 0.666538
+    flicker: 0.817096
+    flicker: 0.967944
+    flicker: 0.099552
+    flicker: 0.172758
+    flicker: 0.965350
+    wrapping 
+    sum(coinToss): 6
+    flicker: 0.044159
+    flicker: 0.945981
+    flicker: 0.419590
+    flicker: 0.371847
+    flicker: 0.016460
+    flicker: 0.669183
+    flicker: 0.080214
+    flicker: 0.350270
+    flicker: 0.093192
+    flicker: 0.428749
+    flicker: 0.102872
+    flicker: 0.534883
+    flicker: 0.396120
+    flicker: 0.295284
+    flicker: 0.297186
+    flicker: 0.500741
+    flicker: 0.748702
+    flicker: 0.722055
+    wrapping 0.827823
+    sum(coinToss): 9
+    flicker: 0.985569
+    flicker: 0.308456
+    flicker: 0.655573
+    flicker: 0.478336
+    flicker: 0.929007
+    flicker: 0.128748
+    flicker: 0.195665
+    flicker: 0.254306
+    flicker: 0.635213
+    flicker: 0.257117
+    flicker: 0.622894
+    flicker: 0.898296
+    wrapping 0.981647
+    wrapping 0.777207
+    wrapping 0.678001
+    sum(coinToss): 7
+    flicker: 0.184480
+    flicker: 0.479138
+    flicker: 0.784931
+    flicker: 0.756523
+    flicker: 0.511788
+    flicker: 0.510752
+    flicker: 0.964479
+    flicker: 0.819965
+    flicker: 0.445128
+    flicker: 0.158450
+    flicker: 0.571441
+    flicker: 0.323750
+    flicker: 0.280655
+    flicker: 0.055082
+    flicker: 0.668320
+    flicker: 0.548728
+    flicker: 0.815587
+    flicker: 0.239584
+    wrapping 0.236162
+    sum(coinToss): 7
+    flicker: 0.895619
+    flicker: 0.221134
+    flicker: 0.757757
+    flicker: 0.478695
+    flicker: 0.887938
+    flicker: 0.998310
+    flicker: 0.002703
+    flicker: 0.604379
+    flicker: 0.994794
+    flicker: 0.334638
+    flicker: 0.296618
+    flicker: 0.028391
+    flicker: 0.034519
+    flicker: 0.866076
+    flicker: 0.850960
+    flicker: 0.045706
+    wrapping 
+    sum(coinToss): 11
+    flicker: 0.700462
+    flicker: 0.983921
+    flicker: 0.232991
+    flicker: 0.297812
+    flicker: 0.612009
+    flicker: 0.736392
+    flicker: 0.471333
+    flicker: 0.457985
+    wrapping 0.687289
+    sum(coinToss): 12
+    flicker: 0.160634
+    flicker: 0.971004
+    flicker: 0.229701
+    flicker: 0.819017
+    flicker: 0.066595
+    flicker: 0.597336
+    flicker: 0.212735
+    flicker: 0.902868
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.584953
+    flicker: 0.262549
+    flicker: 0.368938
+    flicker: 0.372013
+    flicker: 0.975797
+    flicker: 0.518350
+    flicker: 0.663600
+    flicker: 0.052180
+    flicker: 0.527707
+    flicker: 0.648721
+    flicker: 0.383693
+    flicker: 0.147933
+    flicker: 0.297332
+    flicker: 0.520921
+    flicker: 0.874343
+    flicker: 0.797955
+    wrapping 0.701693
+    wrapping 0.719331
+    sum(coinToss): 4
+    flicker: 0.713083
+    flicker: 0.674957
+    flicker: 0.817805
+    flicker: 0.049327
+    flicker: 0.563230
+    flicker: 0.367820
+    flicker: 0.427943
+    flicker: 0.142421
+    flicker: 0.542855
+    flicker: 0.150582
+    flicker: 0.418538
+    flicker: 0.104671
+    flicker: 0.555357
+    flicker: 0.993997
+    flicker: 0.257406
+    flicker: 0.933004
+    flicker: 0.628257
+    flicker: 0.763454
+    flicker: 0.685930
+    flicker: 0.342204
+    flicker: 0.661709
+    flicker: 0.372322
+    wrapping 
+    sum(coinToss): 10
+    flicker: 0.002651
+    flicker: 0.333142
+    flicker: 0.443177
+    flicker: 0.020623
+    flicker: 0.718337
+    flicker: 0.750867
+    flicker: 0.944121
+    flicker: 0.888974
+    flicker: 0.874386
+    flicker: 0.909610
+    flicker: 0.150585
+    flicker: 0.583188
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.458592
+    flicker: 0.708737
+    flicker: 0.128311
+    flicker: 0.300191
+    flicker: 0.690868
+    flicker: 0.314424
+    flicker: 0.783999
+    flicker: 0.658870
+    flicker: 0.617958
+    flicker: 0.698118
+    flicker: 0.061365
+    flicker: 0.963191
+    flicker: 0.214637
+    flicker: 0.567732
+    wrapping 
+    sum(coinToss): 14
+    flicker: 0.265539
+    flicker: 0.689303
+    wrapping 
+    sum(coinToss): 5
+    flicker: 0.322225
+    flicker: 0.695256
+    flicker: 0.999477
+    flicker: 0.528502
+    flicker: 0.910075
+    flicker: 0.596769
+    flicker: 0.820116
+    flicker: 0.557576
+    flicker: 0.529052
+    flicker: 0.999541
+    flicker: 0.021989
+    flicker: 0.492735
+    flicker: 0.942966
+    flicker: 0.975289
+    flicker: 0.152066
+    flicker: 0.010489
+    flicker: 0.124442
+    flicker: 0.377224
+    flicker: 0.932081
+    flicker: 0.206439
+    flicker: 0.349485
+    flicker: 0.011612
+    wrapping 0.728653
+    sum(coinToss): 8
+    flicker: 0.735836
+    flicker: 0.795385
+    flicker: 0.645484
+    flicker: 0.233887
+    flicker: 0.427204
+    flicker: 0.025233
+    flicker: 0.349730
+    flicker: 0.564048
+    flicker: 0.680538
+    flicker: 0.121831
+    flicker: 0.543112
+    flicker: 0.855189
+    flicker: 0.067010
+    flicker: 0.396643
+    wrapping 
+    sum(coinToss): 12
+    flicker: 0.997066
+    flicker: 0.714905
+    flicker: 0.961476
+    flicker: 0.898553
+    flicker: 0.954848
+    flicker: 0.494439
+    wrapping 
+    sum(coinToss): 15
+    flicker: 0.342063
+    flicker: 0.832988
+    wrapping 0.589766
+    sum(coinToss): 8
+    flicker: 0.865823
+    flicker: 0.228456
+    flicker: 0.322994
+    flicker: 0.570573
+    flicker: 0.707927
+    flicker: 0.648231
+    flicker: 0.190407
+    flicker: 0.037311
+    flicker: 0.293973
+    flicker: 0.399872
+    flicker: 0.232566
+    flicker: 0.485835
+    flicker: 0.147057
+    flicker: 0.808839
+    wrapping 
+    sum(coinToss): 7
+    flicker: 0.314059
+    flicker: 0.952470
+    flicker: 0.820007
+    flicker: 0.140595
+    flicker: 0.835425
+    flicker: 0.237735
+    flicker: 0.945451
+    flicker: 0.622610
+    flicker: 0.554751
+    flicker: 0.285324
+    flicker: 0.942781
+    flicker: 0.954819
+    flicker: 0.500027
+    flicker: 0.416870
+    flicker: 0.290605
+    flicker: 0.300602
+    wrapping 
+    sum(coinToss): 8
+    flicker: 0.273019
+    flicker: 0.529182
+    flicker: 0.406965
+    flicker: 0.819222
+    flicker: 0.101082
+    flicker: 0.139253
+    flicker: 0.744990
+    flicker: 0.999506
+    flicker: 0.966422
+    flicker: 0.943846
+    flicker: 0.483531
+    flicker: 0.860224
+    flicker: 0.326920
+    flicker: 0.934419
+    flicker: 0.945386
+    flicker: 0.573484
+    wrapping 
+Trial 20/20, end dir=180, coh=55: dir ans 0 cp ans 0, dirRT=0.43, cpRT=0.11 
+=============================================================
+ End of trials, block reward 0, total reward 0, aborted block=0
+=============================================================
