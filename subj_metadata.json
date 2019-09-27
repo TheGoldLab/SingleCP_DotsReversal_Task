@@ -59,6 +59,16 @@
 				"reward": 0,
 				"numTrials": 5
 			}
+		},
+		"session7": {
+			"trialFolder": "Blocks003",
+			"sessionTag": "2019_09_27_11_29",
+			"trials": {
+				"completed": 0,
+				"aborted": 0,
+				"reward": 0,
+				"numTrials": 5
+			}
 		}
 	},
 	"c577366758027956b21fcb95a8db0d1e": {
