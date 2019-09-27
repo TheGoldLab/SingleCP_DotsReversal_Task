@@ -165,6 +165,7 @@ classdef dotsDrawableDotKinetogramDebug < dotsDrawableVertices
                % no seed given, use the clock
                self.thisRandStream = RandStream('mt19937ar', ...
                   'Seed', round(sum(clock*10)));
+	       disp('    somehow self.randBase is NaN')
             else
                % use the given seed
                initseed=abs(round(self.randBase + self.coherence + 100*self.direction(1) + 50000));
